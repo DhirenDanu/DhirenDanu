@@ -12,7 +12,7 @@
 Hii, I am a software developer currently practicing web development , building some amazing stuff with lot of problem solving and new learning 
 
 
-- 🔭 I’m currently working on **Saas project**
+- 🔭 I’m currently working on **full satck project**
 
 - 🌱 I’m currently learning **Next.js**
 
