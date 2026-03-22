@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=DhirenDanu.DhirenDanu)
-Hii, I am a software developer currently practicing web development , building some amazing stuff with lot of problem solving and new learning 
+Hii, I am a software developer currently practicing blockchain development , building some amazing stuff with lot of problem solving and new learning 
 
 
 - 🔭 I’m currently working on **full stack project**
